@@ -33,7 +33,7 @@ This task focuses on loading and displaying images using OpenCV and Matplotlib. 
 
 ### Script:
 
-* `display_iamge.ipynb`: Loads an image, converts from BGR to RGB, and displays it.
+* `image_visualizing.ipynb`: Loads an image, converts from BGR to RGB, and displays it.
 
 ### How to Run:
 
